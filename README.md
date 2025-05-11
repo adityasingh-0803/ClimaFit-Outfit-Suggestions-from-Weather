@@ -60,5 +60,5 @@ Copy the API key
 In script.js, replace:
 const apiKey = 'your_real_api_key';
 ```
-### 4.4. Run the App
+### 4. Run the App
 Just open index.html in your browser!
