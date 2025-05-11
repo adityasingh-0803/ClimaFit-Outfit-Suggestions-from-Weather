@@ -41,3 +41,19 @@ This is a simple web application that suggests outfits based on the current weat
 ```bash
 git clone https://github.com/yourusername/outfit-weather-app.git
 cd outfit-weather-app
+```
+### 2. Get Your API Key
+```bash
+Sign up at https://openweathermap.org/
+
+Go to your profile → My API Keys
+
+Copy the API key
+```
+### 3. Add API Key
+```bash
+In script.js, replace:
+const apiKey = 'your_real_api_key';
+```
+### 4.4. Run the App
+Just open index.html in your browser!
