@@ -11,7 +11,7 @@ This is a simple web application that suggests outfits based on the current weat
 
 > Get real-time weather & outfit suggestions by typing a city name!
 
-![Screenshot](![image](https://github.com/user-attachments/assets/d73b5516-d80e-4d2a-904a-cdc00d27ee6f)
+![Screenshot]![image](https://github.com/user-attachments/assets/d73b5516-d80e-4d2a-904a-cdc00d27ee6f)
 
 ---
 
